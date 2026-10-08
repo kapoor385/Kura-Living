@@ -1,4 +1,3 @@
-<?php require __DIR__ . '/abp0rg.php' ?>
 <!DOCTYPE html>
 <html lang="ja">
 <head>
